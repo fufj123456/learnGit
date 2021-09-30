@@ -7,4 +7,5 @@ Creating a new branch is quick
 fufj
 =======
 Creating a new branch is quick,good,feichangbang
->>>>>>> feature1
+>>>>>>> feature
+fufj2
